@@ -1,0 +1,49 @@
+{
+  "name": "Test BSC Token List",
+  "logoURI": "https://i-sys.io/images/favicon.png",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+  },
+  "timestamp": "2020-10-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 97,
+      "address": "0x960af5ec8f98950fc1bd27a31e9929479b2e8444",
+      "symbol": "TestA",
+      "name": "TESTA",
+      "decimals": 8,
+      "logoURI": "https://i-sys.io/images/favicon.png",
+      "tags": [
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x3784e0835b938afc44f6a4b6a805b941f40833d3",
+      "symbol": "TestB",
+      "name": "TESTB",
+      "decimals": 18,
+      "logoURI": "https://i-sys.io/images/favicon.png",
+      "tags": [
+      ]
+    },
+    {
+      "chainId": 97,
+      "address": "0x00002e4fc8fc0404b9f6207085c7f47a5e6d1125",
+      "symbol": "TestC",
+      "name": "TESTC",
+      "decimals": 18,
+      "logoURI": "https://i-sys.io/images/favicon.png",
+      "tags": [
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
