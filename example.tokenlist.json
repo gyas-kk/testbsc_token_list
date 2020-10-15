@@ -11,7 +11,7 @@
   "timestamp": "2020-10-12T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 97,
+      "chainId": 1,
       "address": "0x960af5ec8f98950fc1bd27a31e9929479b2e8444",
       "symbol": "TestA",
       "name": "TESTA",
